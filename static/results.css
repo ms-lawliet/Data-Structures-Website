@@ -1,0 +1,106 @@
+html {
+  overflow-x: hidden;
+  color: white;
+  font-family: "Press Start 2P";
+  background: url("viridianforest.png");
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#left {
+  height: 125px;
+  margin-left: -225px;
+}
+
+#title {
+  width: 750px;
+  height: 200px;
+}
+
+.title {
+   	animation: pulse 1.5s linear infinite;
+}
+
+@-webkit-keyframes "pulse" {
+0% {
+    transform: scale(1);
+}
+25% {
+    transform: scale(0.95);
+}
+50% {
+   transform: scale(0.90);
+}
+75% {
+    transform: scale(0.95);
+}
+100% {
+   transform: scale(1);
+}
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: red;
+}
+
+.container {
+  transform: translateY(8%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 98vw;
+  gap: 2rem;
+  margin-top: -200px;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  color: white;
+  -webkit-text-stroke-width: 0.3px;
+  -webkit-text-stroke-color: black;
+  font-size: 1.3rem;
+  margin-left: 0;
+  margin-right: 10px;
+  background: rgb(0, 0, 0, 0.7);
+}
+
+#graphs {
+  display: flex;
+  flex-direction: row;
+}
+
+#graph {
+  width: 330px;
+  height: 350px;
+  padding-bottom: 10px;
+}
+
+figure {
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.info {
+  margin: 10px;
+  font-family: "Press Start 2P";
+}
+
+p {
+  text-align: justify;
+  font-family: sans-serif;
+  line-height: 2rem;
+  letter-spacing: 0.1rem;
+}
