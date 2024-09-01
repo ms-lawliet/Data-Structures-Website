@@ -4,6 +4,8 @@
 
 *Crafted using Python Flask, this interactive pokemon-themed website features a collection of mini demonstrations for various data structures. Queues, hash tables, trees & graphs, infix & postfix, search and sorting algorithms, you can find them in the works section of the said project.*
 
+*Note that this website was made as our final requirement for the subject Data Structures and Algorithms*
+
 ## *Documentation*
 
 - ### *Homepage*
