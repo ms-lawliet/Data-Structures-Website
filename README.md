@@ -1,3 +1,52 @@
+# 🎴 Data Structures Website: Pokedex Edition
+
+Welcome to the **Data Structures Website**, an interactive Pokémon-themed platform for learning data structures and algorithms. Developed using Python and Flask, this project was created as a final showcase for the **Data Structures and Algorithms** course. Dive into mini-demos of popular algorithms and data structures while enjoying the colorful Pokémon theme!
+
+---
+
+## ✨ About the Project
+
+This project provides an engaging platform to explore key concepts like:
+
+- **Queues and Deques**
+- **Hash Tables**
+- **Trees and Graphs**
+- **Infix & Postfix Expressions**
+- **Search Algorithms**
+- **Sorting Algorithms**
+
+Our aim: Make algorithm visualization **fun** and **easy to understand** with a dash of Pokémon charm!
+
+---
+
+## 📸 Features & Demos
+
+### 🚀 Homepage
+- Navigation bar featuring 3 iconic Pokéballs.
+- Introductory page with quick links to explore key sections.
+
+### 🔍 Works Section
+- Choose interactive cards to demo specific data structures or algorithms.
+
+### 🌳 Trees & Graphs Demo
+- Visualize tree traversal techniques and graph structures.
+
+---
+
+## 📄 Setup Instructions
+
+### 🚧 Prerequisites
+Ensure you have the following installed:
+- Python 3.x
+- Flask framework
+
+### 🔧 Installation Steps
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/yourusername/data-structures-website.git
+
+
+
 # DATA STRUCTURES WEBSITE
 
 ## *About the Program*
