@@ -48,29 +48,29 @@ git clone https://github.com/yourusername/data-structures-website.git
 ```
 
 #### *Install Dependencies*
-Install the necessary Python libraries:
+*Install the necessary Python libraries:*
 ```bash
 cd data-structures-website
 pip install -r requirements.txt
 ```
 
-#### Run the Application
-Start the Flask server:
+#### *Run the Application*
+*Start the Flask server:*
 ```bash
 python app.py
 ```
 
-#### Access the Website
-Open your browser and visit:
+#### *Access the Website*
+*Open your browser and visit:*
 ```
 http://127.0.0.1:5000/
 ```
 
 ---
 
-## 🔑 Project Structure
+## *🔑 Project Structure*
 
-Here's a breakdown of the project structure:
+*Here's a breakdown of the project structure:*
 
 ```
 data-structures-website/
@@ -104,47 +104,47 @@ data-structures-website/
 
 ---
 
-## 📝 File Descriptions
+## *📝 File Descriptions*
 
-### Main Files:
-- **app.py**: The main Flask app that handles the web routing and serves the website content.
-- **main.py**: Likely the main entry point for the application logic or execution.
+### *Main Files:*
+- ***app.py**: The main Flask app that handles the web routing and serves the website content.*
+- ***main.py**: Likely the main entry point for the application logic or execution.*
 
-### Algorithm Files:
-- **binary_search.py**: Implements the Binary Search algorithm.
-- **dq.py**: Implements Queue and Deque data structures.
-- **exponential_search.py**: Implements the Exponential Search algorithm.
-- **hashtable.py**: Implements Hash Table operations.
-- **infix_postfix_conversion.py**: Converts Infix expressions to Postfix notation.
-- **interpolation_search.py**: Implements Interpolation Search algorithm.
-- **jump_search.py**: Implements Jump Search algorithm.
-- **linear_search.py**: Implements Linear Search algorithm.
-- **sorting_algorithm.py**: Implements various sorting algorithms such as Bubble Sort, Quick Sort, etc.
-- **ternary_search.py**: Implements Ternary Search algorithm.
+### *Algorithm Files:*
+- ***binary_search.py**: Implements the Binary Search algorithm.*
+- ***dq.py**: Implements Queue and Deque data structures.*
+- ***exponential_search.py**: Implements the Exponential Search algorithm.*
+- ***hashtable.py**: Implements Hash Table operations.*
+- ***infix_postfix_conversion.py**: Converts Infix expressions to Postfix notation.*
+- ***interpolation_search.py**: Implements Interpolation Search algorithm.*
+- ***jump_search.py**: Implements Jump Search algorithm.*
+- ***linear_search.py**: Implements Linear Search algorithm.*
+- ***sorting_algorithm.py**: Implements various sorting algorithms such as Bubble Sort, Quick Sort, etc.*
+- ***ternary_search.py**: Implements Ternary Search algorithm.*
 
-### Test Files:
-- **interpolation_test.py**: Test cases for the Interpolation Search algorithm.
-- **linear_test.py**: Test cases for the Linear Search algorithm.
+### *Test Files:*
+- ***interpolation_test.py**: Test cases for the Interpolation Search algorithm.*
+- ***linear_test.py**: Test cases for the Linear Search algorithm.*
 
-### Other Files:
-- **train_network.py**: The purpose of this file is unclear from the name, but it might be related to training a machine learning model or some algorithmic model (e.g., neural network).
+### *Other Files:*
+- ***train_network.py**: The purpose of this file is unclear from the name, but it might be related to training a machine learning model or some algorithmic model (e.g., neural network).*
 
 ---
-## 🚀 Demo Videos
+## *🚀 Demo Videos*
 
-Check out the quick demo videos of the features:
+*Check out the quick demo videos of the features:*
 
-- **Homepage**:
+- ***Homepage**:*
   - *Homepage of the website where you can find the profile, works, and contact sections through the navigation bar (three pokeballs on the top right corner).*
 
 https://github.com/user-attachments/assets/9ef688a8-91bb-4cb6-8094-bbbd20cc174f
 
-- **Works Section**:
+- ***Works Section**:*
   - *Choose a card to pick a data structure to demo.*
 
 https://github.com/user-attachments/assets/5a9de823-7e3e-46ed-84b7-603f6789b775
 
-- **Demo**:
+- ***Demo**:*
   
 https://github.com/user-attachments/assets/7a9a694d-b921-4358-80ea-167567488da6
 
@@ -153,23 +153,23 @@ https://github.com/user-attachments/assets/7a9a694d-b921-4358-80ea-167567488da6
 
 https://github.com/user-attachments/assets/7d1e34a4-2591-4b37-ba2d-639ee9de4efc
 
-- **Contacts**:
+- ***Contacts**:*
   - *Sample contacts.*
 
 https://github.com/user-attachments/assets/137ddfa5-63f3-476b-bc45-fe4fbeb183fb
 
 ---
 
-## 🌟 Contributors
+## *🌟 Contributors*
 
-- **ms-lawliet** – Project Lead & Developer  
-  GitHub: [@ms-lawliet](https://github.com/ms-lawliet)
+- ***ms-lawliet** – Project Lead & Developer* 
+  *GitHub: [@ms-lawliet](https://github.com/ms-lawliet)*
 
 ---
 
-## 📜 License
+## *📜 License*
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+*This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.*
 
 ---
 
