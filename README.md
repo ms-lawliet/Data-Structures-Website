@@ -1,49 +1,182 @@
-# 🎴 Data Structures Website: Pokedex Edition
+# *🎴 Data Structures Website*
 
-Welcome to the **Data Structures Website**, an interactive Pokémon-themed platform for learning data structures and algorithms. Developed using Python and Flask, this project was created as a final showcase for the **Data Structures and Algorithms** course. Dive into mini-demos of popular algorithms and data structures while enjoying the colorful Pokémon theme!
+*&Welcome to the Data Structures Website! This interactive Pokémon-themed website demonstrates key data structures and algorithms using Python and Flask. Created as the final project for the Data Structures and Algorithms course, the site features mini demos for popular data structures and algorithms.*
 
----
+## *✨ About the Project*
 
-## ✨ About the Project
+*This website allows users to explore:*
 
-This project provides an engaging platform to explore key concepts like:
+*- Queues and Deques*
+*- Hash Tables*
+*- Trees and Graphs*
+*- Infix & Postfix Expressions*
+*- Search Algorithms*
+*- Sorting Algorithms*
 
-- **Queues and Deques**
-- **Hash Tables**
-- **Trees and Graphs**
-- **Infix & Postfix Expressions**
-- **Search Algorithms**
-- **Sorting Algorithms**
-
-Our aim: Make algorithm visualization **fun** and **easy to understand** with a dash of Pokémon charm!
+*The project combines fun and learning with a Pokémon theme, making algorithm visualization both engaging and easy to understand.*
 
 ---
 
-## 📸 Features & Demos
+## *📸 Features & Demos*
 
-### 🚀 Homepage
-- Navigation bar featuring 3 iconic Pokéballs.
-- Introductory page with quick links to explore key sections.
+### *🚀 Homepage*
+*- Navigation bar (3 Pokéballs) leads to Profile, Works, and Contacts.*
+*- Introductory page with links to explore the website’s features.*
 
-### 🔍 Works Section
-- Choose interactive cards to demo specific data structures or algorithms.
+### *🔍 Works Section*
+*- Choose a card to demo a specific data structure or algorithm.*
 
-### 🌳 Trees & Graphs Demo
-- Visualize tree traversal techniques and graph structures.
+### *🌳 Trees & Graphs Demo*
+*- Visual representation of tree traversal algorithms and graph structures.*
 
 ---
 
-## 📄 Setup Instructions
+## *📄 Setup Instructions*
 
-### 🚧 Prerequisites
-Ensure you have the following installed:
-- Python 3.x
-- Flask framework
+### *🚧 Prerequisites*
+*Ensure you have the following installed:*
 
-### 🔧 Installation Steps
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/data-structures-website.git
+*- Python 3.x*
+*- Flask framework*
+
+### *🔧 Installation Steps*
+
+#### *Clone the Repository*
+*Get the project to your local machine:*
+```bash
+git clone https://github.com/yourusername/data-structures-website.git
+```
+
+#### *Install Dependencies*
+Install the necessary Python libraries:
+```bash
+cd data-structures-website
+pip install -r requirements.txt
+```
+
+#### Run the Application
+Start the Flask server:
+```bash
+python app.py
+```
+
+#### Access the Website
+Open your browser and visit:
+```
+http://127.0.0.1:5000/
+```
+
+---
+
+## 🔑 Project Structure
+
+Here's a breakdown of the project structure:
+
+```
+data-structures-website/
+│
+├── .idea/                 # IDE configuration files (e.g., PyCharm)
+├── __pycache__/           # Python cache files
+├── static/                # Static assets (CSS, JS, images)
+│   ├── styles.css         # Custom CSS styles
+│   └── images/            # Image assets for the website
+├── templates/             # HTML templates for the site
+│   ├── homepage.html      # Homepage view
+│   ├── works.html         # Data structure demos view
+│   ├── profile.html       # Developer profiles
+│   └── contacts.html      # Sample contact information
+├── app.py                 # Main Flask application file
+├── binary_search.py       # Binary Search Algorithm
+├── dq.py                  # Queue and Deque implementation
+├── exponential_search.py  # Exponential Search Algorithm
+├── hashtable.py           # Hash Table implementation
+├── infix_postfix_conversion.py # Infix to Postfix conversion algorithm
+├── interpolation_search.py # Interpolation Search Algorithm
+├── interpolation_test.py  # Test file for Interpolation Search
+├── jump_search.py         # Jump Search Algorithm
+├── linear_search.py       # Linear Search Algorithm
+├── linear_test.py         # Test file for Linear Search
+├── main.py                # Main entry point for the application
+├── sorting_algorithm.py   # Sorting algorithms (e.g., Bubble Sort, Quick Sort)
+├── ternary_search.py      # Ternary Search Algorithm
+└── train_network.py       # (Possibly related to training some model/network, not sure)
+```
+
+---
+
+## 📝 File Descriptions
+
+### Main Files:
+- **app.py**: The main Flask app that handles the web routing and serves the website content.
+- **main.py**: Likely the main entry point for the application logic or execution.
+
+### Algorithm Files:
+- **binary_search.py**: Implements the Binary Search algorithm.
+- **dq.py**: Implements Queue and Deque data structures.
+- **exponential_search.py**: Implements the Exponential Search algorithm.
+- **hashtable.py**: Implements Hash Table operations.
+- **infix_postfix_conversion.py**: Converts Infix expressions to Postfix notation.
+- **interpolation_search.py**: Implements Interpolation Search algorithm.
+- **jump_search.py**: Implements Jump Search algorithm.
+- **linear_search.py**: Implements Linear Search algorithm.
+- **sorting_algorithm.py**: Implements various sorting algorithms such as Bubble Sort, Quick Sort, etc.
+- **ternary_search.py**: Implements Ternary Search algorithm.
+
+### Test Files:
+- **interpolation_test.py**: Test cases for the Interpolation Search algorithm.
+- **linear_test.py**: Test cases for the Linear Search algorithm.
+
+### Other Files:
+- **train_network.py**: The purpose of this file is unclear from the name, but it might be related to training a machine learning model or some algorithmic model (e.g., neural network).
+
+---
+## 🚀 Demo Videos
+
+Check out the quick demo videos of the features:
+
+- **Homepage**:
+  - *Homepage of the website where you can find the profile, works, and contact sections through the navigation bar (three pokeballs on the top right corner).*
+
+https://github.com/user-attachments/assets/9ef688a8-91bb-4cb6-8094-bbbd20cc174f
+
+- **Works Section**:
+  - *Choose a card to pick a data structure to demo.*
+
+https://github.com/user-attachments/assets/5a9de823-7e3e-46ed-84b7-603f6789b775
+
+- **Demo**:
+  
+https://github.com/user-attachments/assets/7a9a694d-b921-4358-80ea-167567488da6
+
+- **Profile Section**:
+  - *Group members along with links to their Github accounts.*
+
+https://github.com/user-attachments/assets/7d1e34a4-2591-4b37-ba2d-639ee9de4efc
+
+- **Contacts**:
+  - *Sample contacts.*
+
+https://github.com/user-attachments/assets/137ddfa5-63f3-476b-bc45-fe4fbeb183fb
+
+---
+
+## 🌟 Contributors
+
+- **ms-lawliet** – Project Lead & Developer  
+  GitHub: [@ms-lawliet](https://github.com/ms-lawliet)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+
+
+
+
 
 
 
