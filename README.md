@@ -1,21 +1,46 @@
-# *🎴 Data Structures Website*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3fcabba-b79e-4fb3-8da8-ed182fc2993a" width="150">
+  <h1 align="center"> Data Structures Website </h1>
+</p>
 
-*&Welcome to the Data Structures Website! This interactive Pokémon-themed website demonstrates key data structures and algorithms using Python and Flask. Created as the final project for the Data Structures and Algorithms course, the site features mini demos for popular data structures and algorithms.*
+<details>
+  <summary>Table of Contents</summary>
+
+  1. [About The Project](#about-the-project)
+  2. [Built With](#built-with)
+  3. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  4. [Usage](#usage)
+  5. [Roadmap](#roadmap)
+  6. [Contributing](#contributing)
+  7. [License](#license)
+  8. [Contact](#contact)
+  9. [Acknowledgments](#acknowledgments)
+
+</details>
 
 ## *✨ About the Project*
 
+*This interactive Pokémon-themed website demonstrates key data structures and algorithms using Python and Flask. Created as the final project for the Data Structures and Algorithms course, the site features mini demos for popular data structures and algorithms.*
+
 *This website allows users to explore:*
 
-*- Queues and Deques*
-*- Hash Tables*
-*- Trees and Graphs*
-*- Infix & Postfix Expressions*
-*- Search Algorithms*
-*- Sorting Algorithms*
+1. *Queues and Deques*
+2. *Hash Tables*
+3. *Trees and Graphs*
+4. *Infix & Postfix Expressions*
+5. *Search Algorithms*
+6. *Sorting Algorithms*
 
 *The project combines fun and learning with a Pokémon theme, making algorithm visualization both engaging and easy to understand.*
 
----
+## *📸 Built With*
+
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ## *📸 Features & Demos*
 
@@ -28,8 +53,6 @@
 
 ### *🌳 Trees & Graphs Demo*
 *- Visual representation of tree traversal algorithms and graph structures.*
-
----
 
 ## *📄 Setup Instructions*
 
@@ -162,66 +185,9 @@ https://github.com/user-attachments/assets/137ddfa5-63f3-476b-bc45-fe4fbeb183fb
 
 ## *🌟 Contributors*
 
-- ***ms-lawliet** – Project Lead & Developer* 
-  *GitHub: [@ms-lawliet](https://github.com/ms-lawliet)*
-
----
-
-## *📜 License*
-
-*This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.*
-
----
-
-
-
-
-
-
-
-
-# DATA STRUCTURES WEBSITE
-
-## *About the Program*
-
-*Crafted using Python Flask, this interactive pokemon-themed website features a collection of mini demonstrations for various data structures. Queues, hash tables, trees & graphs, infix & postfix, search and sorting algorithms, you can find them in the works section of the said site.*
-
-*This project was made as a final requirement for the subject Data Structures and Algorithms.*
-
-## *Documentation*
-
-- ### *Homepage*
-  - *Homepage of the website where you can find the profile, works, and contact sections through the navigation bar (three pokeballs on the top right corner).*
-
-https://github.com/user-attachments/assets/9ef688a8-91bb-4cb6-8094-bbbd20cc174f
-
-- ### *Works*
-  - *Choose a card to pick a data structure to demo.*
-
-https://github.com/user-attachments/assets/5a9de823-7e3e-46ed-84b7-603f6789b775
-
-  1. #### Search Algorithms
-  2. #### Infix & Postfix
-  3. #### Queue & Dequeue
-  4. #### Hash Table
-  5. #### Trees & Graphs
-
-https://github.com/user-attachments/assets/7a9a694d-b921-4358-80ea-167567488da6
-
-- ### *Profile*
-  - *Group members along with links to their Github accounts.*
-
-https://github.com/user-attachments/assets/7d1e34a4-2591-4b37-ba2d-639ee9de4efc
-
-- ### *Contacts*
-  - *Sample contacts.*
-
-https://github.com/user-attachments/assets/137ddfa5-63f3-476b-bc45-fe4fbeb183fb
-
-## *Contributors*
-
-<img width="150" src="https://user-images.githubusercontent.com/129574658/232263861-5379719e-571b-4491-b63c-5ccd5f9c88bd.jpg">
-
 ```diff
 @@ ms-lawliet @@
 ```
+*GitHub: [@ms-lawliet](https://github.com/ms-lawliet)*
+
+<img width="150" src="https://user-images.githubusercontent.com/129574658/232263861-5379719e-571b-4491-b63c-5ccd5f9c88bd.jpg">
