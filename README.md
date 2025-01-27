@@ -8,11 +8,9 @@
 
   1. [About The Project](#about-the-project)
   2. [Built With](#built-with)
-  3. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  4. [Usage](#usage)
-  5. [Roadmap](#roadmap)
+  3. [Features & Demos](#features-&-demos)
+  4. [Setup Instructions](#setup-instructions)
+  5. [Project Structure](#project-structure)
   6. [Contributing](#contributing)
   7. [License](#license)
   8. [Contact](#contact)
@@ -51,8 +49,8 @@
 ### *🔍 Works Section*
 *- Choose a card to demo a specific data structure or algorithm.*
 
-### *🌳 Trees & Graphs Demo*
-*- Visual representation of tree traversal algorithms and graph structures.*
+### *🌳 Algorithms & Graphs Demo*
+*- Visual representation of algorithms and graph structures.*
 
 ## *📄 Setup Instructions*
 
