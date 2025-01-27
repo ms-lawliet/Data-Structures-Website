@@ -6,15 +6,15 @@
 <details>
   <summary>Table of Contents</summary>
 
-  1. [About The Project](#about-the-project)
-  2. [Built With](#built-with)
-  3. [Features & Demos](#features-&-demos)
-  4. [Setup Instructions](#setup-instructions)
-  5. [Project Structure](#project-structure)
-  6. [Contributing](#contributing)
-  7. [License](#license)
-  8. [Contact](#contact)
-  9. [Acknowledgments](#acknowledgments)
+1. [About The Project](#about-the-project)
+2. [Built With](#built-with)
+3. [Features and Demos](#features-and-demos)
+4. [Setup Instructions](#setup-instructions)
+5. [Project Structure](#project-structure)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+9. [Acknowledgments](#acknowledgments)
 
 </details>
 
