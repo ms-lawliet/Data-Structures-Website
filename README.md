@@ -6,7 +6,7 @@
 <details>
   <summary>Table of Contents</summary>
 
-1. <a id="about-the-project">About The Project</a>
+1. [About The Project](#about-the-project)
 2. [Built With](#built-with)
 3. [Features and Demos](#features-and-demos)
 4. [Setup Instructions](#setup-instructions)
@@ -18,7 +18,7 @@
 
 </details>
 
-## *✨ About the Project*
+## <a name="about-the-project"></a>*✨ About the Project*
 
 *This interactive Pokémon-themed website demonstrates key data structures and algorithms using Python and Flask. Created as the final project for the Data Structures and Algorithms course, the site features mini demos for popular data structures and algorithms.*
 
