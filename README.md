@@ -42,7 +42,7 @@
 ## *📸 <a name="features-and-demos"></a>Features & Demos*
 
 ### *🚀 Homepage*
-*- Navigation bar (3 Pokéballs) leads to Profile, Works, and Contacts.*
+*- Navigation bar (3 Pokéballs) leads to Profile, Works, and Contacts.*<br>
 *- Introductory page with links to explore the website’s features.*
 
 ### *🔍 Works Section*
