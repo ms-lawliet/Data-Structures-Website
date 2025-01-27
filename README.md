@@ -6,7 +6,7 @@
 <details>
   <summary>Table of Contents</summary>
 
-1. [About The Project](#about-the-project)
+1. <a id="about-the-project">About The Project</a>
 2. [Built With](#built-with)
 3. [Features and Demos](#features-and-demos)
 4. [Setup Instructions](#setup-instructions)
