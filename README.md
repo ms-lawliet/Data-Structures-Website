@@ -11,10 +11,9 @@
 3. [Features and Demos](#features-and-demos)
 4. [Setup Instructions](#setup-instructions)
 5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
-9. [Acknowledgments](#acknowledgments)
+6. [File Description](#file-description)
+7. [Demo Videos](#demo-videos)
+8. [Contributors](#contributors)
 
 </details>
 
@@ -33,14 +32,14 @@
 
 *The project combines fun and learning with a Pokémon theme, making algorithm visualization both engaging and easy to understand.*
 
-## *📸 Built With*
+## <a name="built-with"></a>*📸 Built With*
 
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 - <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-## *📸 Features & Demos*
+## *📸 <a name="features-and-demos"></a>Features & Demos*
 
 ### *🚀 Homepage*
 *- Navigation bar (3 Pokéballs) leads to Profile, Works, and Contacts.*
@@ -52,7 +51,7 @@
 ### *🌳 Algorithms & Graphs Demo*
 *- Visual representation of algorithms and graph structures.*
 
-## *📄 Setup Instructions*
+## *📄 <a name="setup-instructions">Setup Instructions*
 
 ### *🚧 Prerequisites*
 *Ensure you have the following installed:*
@@ -89,7 +88,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## *🔑 Project Structure*
+## <a name="project-structure">*🔑 Project Structure*
 
 *Here's a breakdown of the project structure:*
 
@@ -125,7 +124,7 @@ data-structures-website/
 
 ---
 
-## *📝 File Descriptions*
+## <a name="file-description"></a>*📝 File Descriptions*
 
 ### *Main Files:*
 - ***app.py**: The main Flask app that handles the web routing and serves the website content.*
@@ -151,7 +150,7 @@ data-structures-website/
 - ***train_network.py**: The purpose of this file is unclear from the name, but it might be related to training a machine learning model or some algorithmic model (e.g., neural network).*
 
 ---
-## *🚀 Demo Videos*
+## <a name="demo-videos"></a>*🚀 Demo Videos*
 
 *Check out the quick demo videos of the features:*
 
@@ -181,7 +180,7 @@ https://github.com/user-attachments/assets/137ddfa5-63f3-476b-bc45-fe4fbeb183fb
 
 ---
 
-## *🌟 Contributors*
+## <a name="contributors"></a>*🌟 Contributors*
 
 ```diff
 @@ ms-lawliet @@
