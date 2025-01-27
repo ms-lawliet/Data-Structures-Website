@@ -48,7 +48,7 @@
 ### *🔍 Works Section*
 *- Choose a card to demo a specific data structure or algorithm.*
 
-### *🌳 Data Structures & Algorithms Demo*
+### *🌳 Data Structures & Algorithms Demo Section*
 *- Visual representation of algorithms and data structures.*
 
 ### *👤 Profile Section*
