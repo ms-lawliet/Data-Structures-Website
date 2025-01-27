@@ -48,8 +48,14 @@
 ### *🔍 Works Section*
 *- Choose a card to demo a specific data structure or algorithm.*
 
-### *🌳 Algorithms & Graphs Demo*
-*- Visual representation of algorithms and graph structures.*
+### *🌳 Data Structures & Algorithms Demo*
+*- Visual representation of algorithms and data structures.*
+
+### *👤 Profile Section*
+*- Links to external profiles like LinkedIn, GitHub, and other professional platforms.*
+
+### *📞 Contacts Section*
+*- Includes links to social media, email, and a contact form.*
 
 ## *📄 <a name="setup-instructions">Setup Instructions*
 
